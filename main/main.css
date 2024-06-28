@@ -33,6 +33,7 @@ textarea:focus {
 }
 
 .text { 
+    background-clip: text;
     text-transform: uppercase;
     background: linear-gradient(45deg, #00e3cc, #32a89c, #009688,#44e3d3);
     background-size: 400% 100%;
